@@ -27,3 +27,44 @@ c. Jika a >= 0.5, abaikan dan ulangi perulangan (tidak menaikkan i).
 8.Selesai.
 
 ( output) (<img width="1920" height="1080" alt="Screenshot (67)" src="https://github.com/user-attachments/assets/c44ae42f-d7cc-4316-b8cb-33d3475cd5f0" />
+
+
+# latihan 3
+
+1. Algoritma: Simulasi Mesin ATM Sederhana
+
+   Mulai program.
+
+2. Inisialisasi saldo = 1000000.
+
+3. Ulangi selama saldo masih ada:
+a. Tampilkan saldo saat ini.
+b. Tampilkan menu:
+
+(1) Tarik Uang
+
+(2) Keluar
+c. Minta input pilihan menu dari pengguna.
+d. Jika pilihan = 1:
+
+4. Minta jumlah penarikan.
+
+Jika jumlah penarikan ≤ saldo:
+
+Kurangi saldo dengan jumlah penarikan.
+
+Tampilkan pesan "Penarikan berhasil!"
+
+Jika jumlah penarikan > saldo:
+
+5. Tampilkan pesan "Saldo tidak cukup!"
+e. Jika pilihan = 2:
+
+Tampilkan "Terima kasih telah menggunakan ATM!"
+
+Hentikan program.
+
+Jika saldo = 0, tampilkan pesan “Saldo Anda habis.”
+
+Selesai.
+# output  <img width="1920" height="1080" alt="Screenshot (71)" src="https://github.com/user-attachments/assets/207127dc-bb4d-4e14-8458-4a7d6d5acbf3" />
