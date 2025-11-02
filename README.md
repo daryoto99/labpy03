@@ -26,15 +26,15 @@
 (<img width="1920" height="1080" alt="Screenshot (67)" src="https://github.com/user-attachments/assets/c44ae42f-d7cc-4316-b8cb-33d3475cd5f0" />
 # latihan 2
 # algoritma
-1.Mulai.
+      1.Mulai.
 
-2.Tetapkan modal awal modal = 100_000_000 (100 juta).
+      2.Tetapkan modal awal modal = 100_000_000 (100 juta).
 
-3.Set total_laba = 0.
+      3.Set total_laba = 0.
 
-4.Untuk setiap bulan i dari 1 s.d. 8:
+      4.Untuk setiap bulan i dari 1 s.d. 8:
 
-   Tentukan persentase laba persen:
+         Tentukan persentase laba persen:
 
       Bulan 1–2 → persen = 0%
 
@@ -50,9 +50,9 @@
 
       Tampilkan laba bulan tersebut.
 
-5.Setelah bulan ke-8, tampilkan total_laba.
+      5.Setelah bulan ke-8, tampilkan total_laba.
 
-6.Selesai.
+      6.Selesai.
 # output latihan 2
 <img width="1920" height="1021" alt="Screenshot (76)" src="https://github.com/user-attachments/assets/0e238201-219d-43de-8bbe-adbe26e9f357" />
 
@@ -62,13 +62,13 @@
 
 # Algoritma
 
-1.  Mulai program.
+      1.  Mulai program.
 
-2. Inisialisasi saldo = 1000000.
+      2. Inisialisasi saldo = 1000000.
 
-3. Ulangi selama saldo masih ada:
-a. Tampilkan saldo saat ini.
-b. Tampilkan menu:
+      3. Ulangi selama saldo masih ada:
+      a. Tampilkan saldo saat ini.
+      b. Tampilkan menu:
 
       (1) Tarik Uang
 
@@ -93,7 +93,7 @@ b. Tampilkan menu:
 
       Hentikan program.
 
-4.Jika saldo = 0, tampilkan pesan “Saldo Anda habis.”
+      4.Jika saldo = 0, tampilkan pesan “Saldo Anda habis.”
 
-Selesai.
+      5.Selesai.
 # output  <img width="1920" height="1080" alt="Screenshot (71)" src="https://github.com/user-attachments/assets/207127dc-bb4d-4e14-8458-4a7d6d5acbf3" />
